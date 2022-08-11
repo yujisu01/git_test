@@ -45,4 +45,4 @@
 
 7. push
 
-	git push -u origin master git
+	git push -u origin master git (안되면 'git push origin master' 입력)
